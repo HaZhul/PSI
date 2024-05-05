@@ -1,0 +1,9 @@
+Tworzenie genow +++
+
+Ocena ich: sortowanie po cost_function. ++
+
+Zastapienie 20% najgorzszych 20% najelpszymi ++
+
+80% szans na krzyżowanie z losowym genem pozostałym
+
+20% szans na losowa mutacje wenątrz genu
